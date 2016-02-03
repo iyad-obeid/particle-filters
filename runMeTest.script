@@ -1,0 +1,19 @@
+#####################
+export O_tMax=30
+export O_dataParam1=-1
+export O_dataParam2=-1
+#####################
+export O_nNeurons=100
+
+export O_dataStyle=randwalk_missed_detections
+
+export O_dataParam0=0.01
+fnum=411
+for i in {1..1}
+do
+	export O_dataParam3=$fnum
+	export O_dataParam4=$fnum
+	./liuVPFx
+	let fnum=$(($fnum+1))
+done
+

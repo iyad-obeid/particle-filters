@@ -1,0 +1,26 @@
+#####################
+export O_tMax=30
+export O_dataParam0=-1
+export O_dataParam1=-1
+export O_dataParam2=-1
+#####################
+
+export O_dataStyle=randwalk_false_alarms
+
+export O_nNeurons=100
+
+for fnum in {461..510}
+do
+	export O_dataParam4=$fnum
+	export O_dataParam3=$fnum
+	./liuVPF
+done
+
+for fnum in {6791..6840}
+do
+	export O_dataParam4=$fnum
+	export O_dataParam3=$fnum
+	./liuVPF
+done
+
+

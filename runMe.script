@@ -1,0 +1,19 @@
+#####################
+export O_tMax=30
+export O_dataParam1=-1
+export O_dataParam2=-1
+#####################
+
+export O_dataStyle=multineuron_randwalk
+export O_dataParam0=1.5
+export O_nNeurons=100
+
+export O_dataParam3=9501
+#./createSingleInputFile
+for fnum in {9501}
+do
+	export O_dataParam4=$fnum
+	./liuPFx
+#	./liuVPFx
+done
+

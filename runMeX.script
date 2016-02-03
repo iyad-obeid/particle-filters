@@ -1,0 +1,11 @@
+#####################
+export O_tMax=30
+export O_nNeurons=50
+export O_dataStyle=confidence_interval_1
+export O_dataParam1=-1
+export O_dataParam2=-1
+export O_dataParam3=99998
+export O_dataParam4=-1
+#####################
+
+./createSingleInputFile

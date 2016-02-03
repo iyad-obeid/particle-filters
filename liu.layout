@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="createData.c" open="1" top="1" tabpos="3">
+		<Cursor position="4108" topLine="128" />
+	</File>
+	<File name="createData.h" open="0" top="0" tabpos="3">
+		<Cursor position="19" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="11137" topLine="353" />
+	</File>
+	<File name="oMatrixPrimitives.c" open="1" top="0" tabpos="4">
+		<Cursor position="247" topLine="0" />
+	</File>
+	<File name="oMatrixPrimitives.h" open="1" top="0" tabpos="2">
+		<Cursor position="194" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

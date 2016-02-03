@@ -1,0 +1,10 @@
+clc
+clear all
+close all
+load P_40_B_50_G_15
+
+for k = 1:length(neuron_list)
+    
+    figure, plot(t2, x_estimate.theta_p(:, k)), xlim([0 30]);
+    
+end

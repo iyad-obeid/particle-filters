@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="main.c" open="0" top="0" tabpos="1">
+		<Cursor position="5062" topLine="175" />
+	</File>
+	<File name="../c_code_liu/oMatrixPrimitives.c" open="1" top="1" tabpos="2">
+		<Cursor position="2142" topLine="62" />
+	</File>
+	<File name="../c_code_liu/oMatrixPrimitives.h" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

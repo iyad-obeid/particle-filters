@@ -1,4 +1,0 @@
-clc
-clear
-
-randraw('vonmises', [P(p).mu(k-1), sd.mu1], 1)
